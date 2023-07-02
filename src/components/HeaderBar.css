@@ -1,0 +1,16 @@
+#topDiv {
+  display: flex;
+  width: 100%;
+  /* background-color: black; */
+}
+
+.contentBlock {
+  flex: 1;
+  background-color: blueviolet;
+  border-width: 5px;
+  border-radius: 5px;
+}
+
+.contentBlock:hover {
+  background-color: white;
+}

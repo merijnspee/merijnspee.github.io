@@ -1,0 +1,7 @@
+#skillDiv {
+  display: flex;
+  flex-direction: column;
+}
+#skillDiv > * {
+  flex: 1; /* Make the flex items fill the available vertical space */
+}
