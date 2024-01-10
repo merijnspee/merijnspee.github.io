@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.guardian360.lighthouse",
       "sha256_cert_fingerprints": [
-        "6D:EB:A1:C0:70:7A:6F:32:47:39:21:7D:A7:34:24:B4:29:AB:28:36:2C:CD:66:CF:85:B2:5E:2F:89:8D:B0:FA"
+        "6D:EB:A1:C0:70:7A:6F:32:47:39:21:7D:A7:34:24:B4:29:AB:28:36:2C:CD:66:CF:85:B2:5E:2F:89:8D:B0:FA",
+        "7E:6F:56:85:32:B0:16:56:E3:D6:B4:E5:9A:84:6E:6A:55:87:AD:2A:3C:09:DB:60:3D:10:C2:7D:3B:3D:2C:B1"
       ]
     }
   }
